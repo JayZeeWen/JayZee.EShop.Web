@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JayZee.EShop.Web", "JayZee.EShop.Web\JayZee.EShop.Web.csproj", "{6475C7C8-0225-444E-B101-B995142E9FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JayZee.EShop.Admin", "JayZee.EShop.Admin\JayZee.EShop.Admin.csproj", "{681246C8-CEEE-40C4-874C-A3413C5B83D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JayZee.EShop.Entity", "JayZee.EShop.Entity\JayZee.EShop.Entity.csproj", "{0BAE1CEA-A865-41F1-9A17-018B5B5D1BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JayZee.EShop.Logic", "JayZee.EShop.Logic\JayZee.EShop.Logic.csproj", "{3DF383B8-6290-4C1A-BFA4-7E4171142DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JayZee.EShop.DAL", "JayZee.EShop.DAL\JayZee.EShop.DAL.csproj", "{7817B941-C6FF-42BC-9C07-2371882099DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6475C7C8-0225-444E-B101-B995142E9FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6475C7C8-0225-444E-B101-B995142E9FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6475C7C8-0225-444E-B101-B995142E9FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6475C7C8-0225-444E-B101-B995142E9FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681246C8-CEEE-40C4-874C-A3413C5B83D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681246C8-CEEE-40C4-874C-A3413C5B83D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681246C8-CEEE-40C4-874C-A3413C5B83D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681246C8-CEEE-40C4-874C-A3413C5B83D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAE1CEA-A865-41F1-9A17-018B5B5D1BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAE1CEA-A865-41F1-9A17-018B5B5D1BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAE1CEA-A865-41F1-9A17-018B5B5D1BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAE1CEA-A865-41F1-9A17-018B5B5D1BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF383B8-6290-4C1A-BFA4-7E4171142DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF383B8-6290-4C1A-BFA4-7E4171142DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF383B8-6290-4C1A-BFA4-7E4171142DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF383B8-6290-4C1A-BFA4-7E4171142DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7817B941-C6FF-42BC-9C07-2371882099DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7817B941-C6FF-42BC-9C07-2371882099DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7817B941-C6FF-42BC-9C07-2371882099DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7817B941-C6FF-42BC-9C07-2371882099DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

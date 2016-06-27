@@ -1,0 +1,12 @@
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\JayZee.EShop.Logic.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\JayZee.EShop.Logic.pdb
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\JayZee.EShop.DAL.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\JayZee.EShop.Entity.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\EntityFramework.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\JayZee.EShop.DAL.pdb
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\JayZee.EShop.Entity.pdb
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\EntityFramework.xml
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\obj\Debug\JayZee.EShop.Logic.csprojResolveAssemblyReference.cache
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\obj\Debug\JayZee.EShop.Logic.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Logic\obj\Debug\JayZee.EShop.Logic.pdb

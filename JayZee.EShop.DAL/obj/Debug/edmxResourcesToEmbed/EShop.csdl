@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="t_users">
+    <Key>
+      <PropertyRef Name="c_id" />
+    </Key>
+    <Property Name="c_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="c_user_name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="c_pwd" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="c_mail" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="c_pay_password" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="c_phone" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="c_state" Type="Int32" />
+    <Property Name="c_db_last_update_date" Type="DateTime" Precision="3" />
+    <Property Name="c_db_last_update_id" Type="Int32" />
+    <Property Name="c_db_status" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="EShopEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="t_users" EntityType="Self.t_users" />
+  </EntityContainer>
+</Schema>

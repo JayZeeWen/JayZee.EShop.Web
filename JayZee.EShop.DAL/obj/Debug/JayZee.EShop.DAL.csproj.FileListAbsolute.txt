@@ -1,0 +1,14 @@
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\obj\Debug\JayZee.EShop.DAL.csprojResolveAssemblyReference.cache
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\JayZee.EShop.DAL.dll.config
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\JayZee.EShop.DAL.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\JayZee.EShop.DAL.pdb
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\EntityFramework.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\JayZee.EShop.Entity.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\JayZee.EShop.Entity.pdb
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\EntityFramework.xml
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\obj\Debug\JayZee.EShop.DAL.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.DAL\obj\Debug\JayZee.EShop.DAL.pdb

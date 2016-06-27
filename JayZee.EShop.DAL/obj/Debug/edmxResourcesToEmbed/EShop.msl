@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EShopModelStoreContainer" CdmEntityContainer="EShopEntities">
+    <EntitySetMapping Name="t_users">
+      <EntityTypeMapping TypeName="EShopModel.t_users">
+        <MappingFragment StoreEntitySet="t_users">
+          <ScalarProperty Name="c_id" ColumnName="c_id" />
+          <ScalarProperty Name="c_user_name" ColumnName="c_user_name" />
+          <ScalarProperty Name="c_pwd" ColumnName="c_pwd" />
+          <ScalarProperty Name="c_mail" ColumnName="c_mail" />
+          <ScalarProperty Name="c_pay_password" ColumnName="c_pay_password" />
+          <ScalarProperty Name="c_phone" ColumnName="c_phone" />
+          <ScalarProperty Name="c_state" ColumnName="c_state" />
+          <ScalarProperty Name="c_db_last_update_date" ColumnName="c_db_last_update_date" />
+          <ScalarProperty Name="c_db_last_update_id" ColumnName="c_db_last_update_id" />
+          <ScalarProperty Name="c_db_status" ColumnName="c_db_status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

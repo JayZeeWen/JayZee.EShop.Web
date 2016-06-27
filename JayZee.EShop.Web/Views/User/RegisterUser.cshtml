@@ -1,0 +1,44 @@
+﻿@model JayZee.EShop.Entity.t_users
+
+@{
+    ViewBag.Title = "RegisterUser";
+}
+<!--cont-->
+<div class="cent-cont">
+    <div class="reg-box-h2 f24">免费注册用户</div>
+    @using (Html.BeginForm("Registe", "User", FormMethod.Post, new { id = "formReg", name = "formReg" }))
+    {
+
+    }
+    <div class="reg-cont">
+        <div class="item">
+            <span class="reg-tit"><font class="red">*</font>手机号码：</span>
+            <div class="reg-inf"><input type="text" class=" inputes reg-input" value="" /></div>
+            <div class="fl red f12 mt15 ml10"><b class="icon-wrong"></b>请填写正确的手机/邮箱</div>
+        </div><!--/item-->
+        <div class="item mt15">
+            <span class="reg-tit"><font class="red">*</font>短信验证码：</span>
+            <div class="reg-inf"><input class="inputes sms-input" type="" size="8" onKeyUp="pwStrength(this.value)" onBlur="pwStrength(this.value)" /><input class="sms-btn" type="button" value="获取验证码" /></div><div class="fl red f12 mt15 ml10"><b class="icon-ok"></b></div>
+        </div>
+        <div class="item ml350 mt5"><font class="f12">收不到验证码？</font><a class="f12" href="javascript:;">重新获取验证码</a></div>
+        <div class="item mt10">
+            <span class="reg-tit"><font class="red">*</font>密码：</span>
+            <div class="reg-inf">
+                <input type="text" class="inputes reg-input" />
+                <div class="password-box mt10"><div class="pass-margin password_ruo">弱</div><div class="pass-margin password_zhong">中</div><div class="password_qiang">强</div></div>
+            </div>
+            <div class="fl f12 mt15  ml15">6-16位大小写字母、数字或特殊字符</div>
+        </div>
+        <div class="item mt15">
+            <span class="reg-tit"><font class="red">*</font>确认密码：</span>
+            <div class="reg-inf">
+                <input type="text" class="inputes reg-input" />
+            </div>
+        </div>
+        <div class="item item-note mt10"><input type="checkbox" /><span class=" f12 ml5">我已阅读并同意 </span><a href="#" class="f12">《壹任务服务协议条款》</a></div>
+        <div class="item"><button type="button" class="gray-btn-box">立即注册</button></div>
+        <div class="fl ml450 mt20">已有账号<a class="ml15" href="javascript:;">登录</a></div>
+    </div><!--/reg-cont-->
+</div>
+<link href="http://localhost/JayZee.EShop.Web/Content/skin/css/base.css" rel="stylesheet" />
+<link href="http://localhost/JayZee.EShop.Web/Content/skin/css/contcss.css" rel="stylesheet" />

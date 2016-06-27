@@ -1,0 +1,4 @@
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Entity\bin\Debug\JayZee.EShop.Entity.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Entity\bin\Debug\JayZee.EShop.Entity.pdb
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Entity\obj\Debug\JayZee.EShop.Entity.dll
+F:\Practice\JayZee.EShop.Web\JayZee.EShop.Entity\obj\Debug\JayZee.EShop.Entity.pdb
